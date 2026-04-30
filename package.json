@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "bin": {
+        "expense-tracker": "./index.js"
+    }
+}

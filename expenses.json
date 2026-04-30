@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "date": "2026-04-30",
+    "description": "Business Lunch",
+    "amount": 25
+  },
+  {
+    "id": 3,
+    "date": "2026-04-30",
+    "description": "Rent",
+    "amount": 600
+  },
+  {
+    "id": 4,
+    "date": "2026-04-30",
+    "description": "Afternoon Coffee",
+    "amount": 100
+  }
+]
